@@ -14,7 +14,7 @@ Quickstart
 
 3) Add this upstream repo
 
-    cd bqserver
+    cd bqclient
     git remote add upstream -m master git://github.com/wshearn/openshift-quickstart-browserquest-client.git
     git pull -s recursive -X theirs upstream master
 
